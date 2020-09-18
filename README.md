@@ -16,7 +16,7 @@
 [<img align="left" alt="Lakshya Tyagi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -30,3 +30,9 @@
 
 
 ![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true)
+
+
+[twitter]: https://twitter.com/LakshyaTyagi24
+[linkedin]: https://www.linkedin.com/in/lakshyatyagi24/
+[instagram]: https://www.instagram.com/lakshya.tyagi/
+[facebook]: https://facebook.com/lakshya.tyagi.77
