@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: Github Stats</summary> 
 
-![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true)
+![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true&theme=radical)
   
 </details>
 
