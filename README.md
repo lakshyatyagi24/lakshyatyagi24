@@ -3,7 +3,7 @@
 
 ## I'm a Student and Developer
 
-### - 🔭 I’m currently working on my skills
+### - 🔭 I’m currently working on Capstone Project
 ### - 🌱 I’m currently learning React Native
 
 ### Spotify Playing 🎧
