@@ -35,6 +35,11 @@
 ---
 
 <details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+  
+
+<details>
   <summary>:zap: Github Stats</summary> 
 
 ![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true)
