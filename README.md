@@ -17,7 +17,7 @@
 
 <BR />
 
-### Languages and Tools:
+### - Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />](https://www.python.org/)
 [<img align="left" alt="Java" width="26px" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="C" width="26px" src="https://unpkg.com/simple-icons@v3/icons/C.svg" />](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -29,10 +29,12 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
 
+<BR />
 
-
+<details>
+  <summary>:zap: Github Stats</summary>
 ![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true)
-
+</details>
 
 [twitter]: https://twitter.com/LakshyaTyagi24
 [linkedin]: https://www.linkedin.com/in/lakshyatyagi24/
