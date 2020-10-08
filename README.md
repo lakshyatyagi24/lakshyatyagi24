@@ -38,7 +38,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-  
   <!--END_SECTION:activity-->
   
 </details>
@@ -48,8 +47,6 @@
 
 ![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyatyagi24&layout=compact&theme=radical)
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lakshyatyagi24&theme=radical)
 </details>
 
 [twitter]: https://twitter.com/LakshyaTyagi24
