@@ -2,6 +2,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/lakshyatyagi24?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flakshyatyagi24&screen_name=lakshyatyagi24)
 [![Github Follow](https://img.shields.io/github/followers/lakshyatyagi24?color=1DA1F2&logo=github&label=follow%20%40lakshyatyagi24&style=for-the-badge)](https://github.com/login?return_to=%2Flakshyatyagi24)
 
+![](https://komarev.com/ghpvc/?username=lakshyatyagi24&color=47ccb3)
+
 ## I'm a Student and Developer
 
 ### - 🔭 I’m currently working on Capstone Project
