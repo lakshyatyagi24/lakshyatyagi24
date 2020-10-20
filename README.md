@@ -6,8 +6,8 @@
 
 ## I'm a Student and Developer
 
-### - 🔭 I’m currently working on Capstone Project
-### - 🌱 I’m currently learning React Native
+### - 🔭 I’m currently working on Capstone Project.
+### - 🌱 I’m currently learning React Native.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lakshya Tyagi Spotify Playing" width="350" />](https://open.spotify.com/user/315as6ypnsfu44b4lf66cdqlxm5e)
