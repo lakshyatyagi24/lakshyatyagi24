@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/lakshyatyagi24/Scientific-Calculator-using-Python/pull/6) in [lakshyatyagi24/Scientific-Calculator-using-Python](https://github.com/lakshyatyagi24/Scientific-Calculator-using-Python)
-2. 🗣 Commented on [#6](https://github.com/vikramoff24/CodeInfo-/issues/6) in [vikramoff24/CodeInfo-](https://github.com/vikramoff24/CodeInfo-)
-3. 🎉 Merged PR [#154](https://github.com/StudentCode-in/Hacktoberfest2020/pull/154) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
-4. 🎉 Merged PR [#153](https://github.com/StudentCode-in/Hacktoberfest2020/pull/153) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
-5. 🎉 Merged PR [#152](https://github.com/StudentCode-in/Hacktoberfest2020/pull/152) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
+1. 🗣 Commented on [#104](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/104) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+2. 🎉 Merged PR [#6](https://github.com/lakshyatyagi24/Scientific-Calculator-using-Python/pull/6) in [lakshyatyagi24/Scientific-Calculator-using-Python](https://github.com/lakshyatyagi24/Scientific-Calculator-using-Python)
+3. 🗣 Commented on [#6](https://github.com/vikramoff24/CodeInfo-/issues/6) in [vikramoff24/CodeInfo-](https://github.com/vikramoff24/CodeInfo-)
+4. 🎉 Merged PR [#154](https://github.com/StudentCode-in/Hacktoberfest2020/pull/154) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
+5. 🎉 Merged PR [#153](https://github.com/StudentCode-in/Hacktoberfest2020/pull/153) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
 <!--END_SECTION:activity-->
   
   
