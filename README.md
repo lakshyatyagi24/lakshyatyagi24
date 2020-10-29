@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/StudentCode-in/Hacktoberfest2020/pull/154) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
-2. 🎉 Merged PR [#153](https://github.com/StudentCode-in/Hacktoberfest2020/pull/153) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
-3. 🎉 Merged PR [#152](https://github.com/StudentCode-in/Hacktoberfest2020/pull/152) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
-4. 🎉 Merged PR [#151](https://github.com/StudentCode-in/Hacktoberfest2020/pull/151) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
-5. 🗣 Commented on [#103](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/103) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+1. 🗣 Commented on [#6](https://github.com/vikramoff24/CodeInfo-/issues/6) in [vikramoff24/CodeInfo-](https://github.com/vikramoff24/CodeInfo-)
+2. 🎉 Merged PR [#154](https://github.com/StudentCode-in/Hacktoberfest2020/pull/154) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
+3. 🎉 Merged PR [#153](https://github.com/StudentCode-in/Hacktoberfest2020/pull/153) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
+4. 🎉 Merged PR [#152](https://github.com/StudentCode-in/Hacktoberfest2020/pull/152) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
+5. 🎉 Merged PR [#151](https://github.com/StudentCode-in/Hacktoberfest2020/pull/151) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
 <!--END_SECTION:activity-->
   
   
