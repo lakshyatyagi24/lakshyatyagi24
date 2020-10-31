@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/lakshyatyagi24/lakshyatyagi24/issues/1) in [lakshyatyagi24/lakshyatyagi24](https://github.com/lakshyatyagi24/lakshyatyagi24)
-2. 🗣 Commented on [#81](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/81) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-3. 🗣 Commented on [#158](https://github.com/StudentCode-in/Hacktoberfest2020/issues/158) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
-4. 🎉 Merged PR [#104](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/104) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-5. ❗️ Closed issue [#84](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/84) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+1. 🎉 Merged PR [#161](https://github.com/StudentCode-in/Hacktoberfest2020/pull/161) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
+2. ❗️ Closed issue [#1](https://github.com/lakshyatyagi24/lakshyatyagi24/issues/1) in [lakshyatyagi24/lakshyatyagi24](https://github.com/lakshyatyagi24/lakshyatyagi24)
+3. 🗣 Commented on [#81](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/81) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+4. 🗣 Commented on [#158](https://github.com/StudentCode-in/Hacktoberfest2020/issues/158) in [StudentCode-in/Hacktoberfest2020](https://github.com/StudentCode-in/Hacktoberfest2020)
+5. 🎉 Merged PR [#104](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/104) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
 <!--END_SECTION:activity-->
   
   
