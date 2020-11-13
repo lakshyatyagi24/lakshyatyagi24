@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/lakshyatyagi24/pull/2) in [lakshyatyagi24/lakshyatyagi24](https://github.com/lakshyatyagi24/lakshyatyagi24)
-2. 💪 Opened PR [#2](https://github.com/lakshyatyagi24/lakshyatyagi24/pull/2) in [lakshyatyagi24/lakshyatyagi24](https://github.com/lakshyatyagi24/lakshyatyagi24)
-3. 🗣 Commented on [#109](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/109) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-4. ❗️ Closed issue [#108](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/108) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-5. 🎉 Merged PR [#110](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/110) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+1. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+2. 💪 Opened PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+3. 🎉 Merged PR [#1](https://github.com/lakshyatyagi24/Polling-Platform/pull/1) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+4. 💪 Opened PR [#1](https://github.com/lakshyatyagi24/Polling-Platform/pull/1) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+5. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/lakshyatyagi24/pull/2) in [lakshyatyagi24/lakshyatyagi24](https://github.com/lakshyatyagi24/lakshyatyagi24)
 <!--END_SECTION:activity-->
   
   
