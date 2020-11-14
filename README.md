@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-2. 💪 Opened PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-3. 🎉 Merged PR [#1](https://github.com/lakshyatyagi24/Polling-Platform/pull/1) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-4. 💪 Opened PR [#1](https://github.com/lakshyatyagi24/Polling-Platform/pull/1) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-5. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/lakshyatyagi24/pull/2) in [lakshyatyagi24/lakshyatyagi24](https://github.com/lakshyatyagi24/lakshyatyagi24)
+1. 💪 Opened PR [#4](https://github.com/lakshyatyagi24/Polling-Platform/pull/4) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+2. 💪 Opened PR [#3](https://github.com/lakshyatyagi24/Polling-Platform/pull/3) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+3. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+4. 💪 Opened PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+5. 🎉 Merged PR [#1](https://github.com/lakshyatyagi24/Polling-Platform/pull/1) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
 <!--END_SECTION:activity-->
   
   
