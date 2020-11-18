@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/lakshyatyagi24/Polling-Platform/pull/4) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-2. 💪 Opened PR [#3](https://github.com/lakshyatyagi24/Polling-Platform/pull/3) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-3. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-4. 💪 Opened PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
-5. 🎉 Merged PR [#1](https://github.com/lakshyatyagi24/Polling-Platform/pull/1) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+1. ❗️ Opened issue [#112](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/112) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+2. ❗️ Opened issue [#111](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/111) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+3. 💪 Opened PR [#4](https://github.com/lakshyatyagi24/Polling-Platform/pull/4) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+4. 💪 Opened PR [#3](https://github.com/lakshyatyagi24/Polling-Platform/pull/3) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
+5. 🎉 Merged PR [#2](https://github.com/lakshyatyagi24/Polling-Platform/pull/2) in [lakshyatyagi24/Polling-Platform](https://github.com/lakshyatyagi24/Polling-Platform)
 <!--END_SECTION:activity-->
   
   
