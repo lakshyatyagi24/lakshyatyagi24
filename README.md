@@ -12,6 +12,7 @@
 
 ### - 🔭 I’m currently working on Capstone Project.
 ### - 🌱 I’m currently learning React Native.
+[![Lakshya Tyagi's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/lakshyatyagi24)
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lakshya Tyagi Spotify Playing" width="350" />](https://open.spotify.com/user/315as6ypnsfu44b4lf66cdqlxm5e)
