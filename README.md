@@ -12,9 +12,7 @@
 
 ### - 🔭 I’m currently working on Capstone Project.
 ### - 🌱 I’m currently learning React Native.
-<a href="https://dev.to/lakshyatyagi24">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshya Tyagi's DEV Profile" height="30" width="30">
-</a>
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lakshya Tyagi Spotify Playing" width="350" />](https://open.spotify.com/user/315as6ypnsfu44b4lf66cdqlxm5e)
@@ -24,7 +22,9 @@
 [<img align="left" alt="Lakshya Tyagi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lakshya Tyagi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Lakshya Tyagi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+<a href="https://dev.to/lakshyatyagi24">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshya Tyagi's DEV Profile" height="30" width="30">
+</a>
 <BR />
 
 ### - Languages and Tools:
