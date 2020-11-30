@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#120](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/120) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-2. 🗣 Commented on [#81](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/81) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-3. 🗣 Commented on [#81](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/81) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-4. 🎉 Merged PR [#115](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/115) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-5. 💪 Opened PR [#115](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/115) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+1. 🎉 Merged PR [#123](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/123) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+2. ❗️ Closed issue [#81](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/81) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+3. ❗️ Opened issue [#120](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/120) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+4. 🗣 Commented on [#81](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/81) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+5. 🗣 Commented on [#81](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/81) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
 <!--END_SECTION:activity-->
   
   
