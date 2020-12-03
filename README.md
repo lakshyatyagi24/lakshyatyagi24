@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/47) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-2. 🎉 Merged PR [#2](https://github.com/Program-Warehouse/Catchy-Deals/pull/2) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
-3. 💪 Opened PR [#2](https://github.com/Program-Warehouse/Catchy-Deals/pull/2) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
-4. 🎉 Merged PR [#1](https://github.com/Program-Warehouse/Catchy-Deals/pull/1) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
-5. 💪 Opened PR [#1](https://github.com/Program-Warehouse/Catchy-Deals/pull/1) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
+1. 🗣 Commented on [#126](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/126) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+2. 🗣 Commented on [#47](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/47) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+3. 🎉 Merged PR [#2](https://github.com/Program-Warehouse/Catchy-Deals/pull/2) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
+4. 💪 Opened PR [#2](https://github.com/Program-Warehouse/Catchy-Deals/pull/2) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
+5. 🎉 Merged PR [#1](https://github.com/Program-Warehouse/Catchy-Deals/pull/1) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
 <!--END_SECTION:activity-->
   
   
