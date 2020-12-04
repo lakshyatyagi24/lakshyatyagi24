@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/126) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-2. 🗣 Commented on [#47](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/47) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-3. 🎉 Merged PR [#2](https://github.com/Program-Warehouse/Catchy-Deals/pull/2) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
-4. 💪 Opened PR [#2](https://github.com/Program-Warehouse/Catchy-Deals/pull/2) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
-5. 🎉 Merged PR [#1](https://github.com/Program-Warehouse/Catchy-Deals/pull/1) in [Program-Warehouse/Catchy-Deals](https://github.com/Program-Warehouse/Catchy-Deals)
+1. ❗️ Opened issue [#127](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/127) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+2. 🗣 Commented on [#112](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/112) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+3. 🗣 Commented on [#87](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/87) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+4. 🗣 Commented on [#126](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/126) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+5. 🗣 Commented on [#47](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/47) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
 <!--END_SECTION:activity-->
   
   
