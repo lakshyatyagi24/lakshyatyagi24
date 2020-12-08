@@ -48,10 +48,10 @@
   
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#95](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/95) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-2. 🗣 Commented on [#129](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/129) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-3. ❗️ Opened issue [#129](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/129) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-4. 🗣 Commented on [#95](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/95) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-5. ❗️ Opened issue [#127](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/127) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+2. 🗣 Commented on [#95](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/95) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+3. 🗣 Commented on [#129](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/129) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+4. ❗️ Opened issue [#129](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/129) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+5. 🗣 Commented on [#95](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/95) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
 <!--END_SECTION:activity-->
   
   
