@@ -47,10 +47,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/78) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-2. 🗣 Commented on [#139](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/139) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-3. 🗣 Commented on [#127](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/127) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-4. 🎉 Merged PR [#136](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/136) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+1. 🎉 Merged PR [#141](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/141) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+2. ❗️ Closed issue [#78](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/78) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+3. 🗣 Commented on [#78](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/78) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+4. 🗣 Commented on [#139](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/139) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
 5. 🗣 Commented on [#127](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/127) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
 <!--END_SECTION:activity-->
   
