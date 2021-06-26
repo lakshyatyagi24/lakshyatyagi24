@@ -8,10 +8,10 @@
 
 ![](https://komarev.com/ghpvc/?username=lakshyatyagi24&color=47ccb3)
 
-## I'm a Student and Developer
+## I'm a Trainee Software Developer
 
-### - 🔭 I’m currently working on Capstone Project.
-### - 🌱 I’m currently learning React Native.
+### - 🔭 I’m currently working on CMS.
+### - 🌱 I’m currently learning Node JS.
 
 
 ### Spotify Playing 🎧
