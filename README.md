@@ -13,6 +13,7 @@
 ### - 🔭 I’m currently working on CMS.
 ### - 🌱 I’m currently learning Node JS.
 
+<a href="https://app.daily.dev/lakshyatyagi24"><img src="https://api.daily.dev/devcards/4afe4f338c024951be53c148cc4f7db0.png?r=oj4" width="400" alt="Lakshya Tyagi's Dev Card"/></a>
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lakshya Tyagi Spotify Playing" width="350" />](https://open.spotify.com/user/315as6ypnsfu44b4lf66cdqlxm5e)
