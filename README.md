@@ -63,6 +63,7 @@
 
 ![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyatyagi24&layout=compact&theme=radical)
+ <a href="http://www.github.com/scottwright-dev"><img src="https://github-readme-streak-stats.herokuapp.com?user=lakshyatyagi24&theme=dark" /></a>
 </details>
 
 [twitter]: https://twitter.com/LakshyaTyagi24
