@@ -10,8 +10,7 @@
 
 ## I'm a Trainee Software Developer
 
-### - 🔭 I’m currently working on CMS.
-### - 🌱 I’m currently learning Node JS.
+### - 🔭 I’m currently working on Flutter
 
 <a href="https://app.daily.dev/lakshyatyagi24"><img src="https://api.daily.dev/devcards/4afe4f338c024951be53c148cc4f7db0.png?r=oj4" width="400" alt="Lakshya Tyagi's Dev Card"/></a>
 
