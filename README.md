@@ -15,7 +15,7 @@
 <a href="https://app.daily.dev/lakshyatyagi24"><img src="https://api.daily.dev/devcards/4afe4f338c024951be53c148cc4f7db0.png?r=oj4" width="400" alt="Lakshya Tyagi's Dev Card"/></a>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lakshya Tyagi Spotify Playing" width="350" />](https://open.spotify.com/user/315as6ypnsfu44b4lf66cdqlxm5e)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4QSF0d4ENvMXA03ARpMfaP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### - 📫 Connect with me
 [<img align="left" alt="Lakshya Tyagi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
