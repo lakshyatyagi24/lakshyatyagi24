@@ -8,6 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=lakshyatyagi24&color=47ccb3)
 
+[![An image of @lakshyatyagi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshyatyagi24)](https://holopin.io/@lakshyatyagi24)
+
+
 ## I'm a Trainee Software Developer
 
 ### - 🔭 I’m currently working on Flutter
