@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=lakshyatyagi24&color=47ccb3)
-</p>
-
 ---
 
 ## 🌟 About Me
