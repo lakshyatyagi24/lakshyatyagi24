@@ -1,75 +1,95 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+  <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center" alt="Coding Gif"/>
 </div>
 
-## Hi there, I'm Lakshya Tyagi
-[![Twitter Follow](https://img.shields.io/twitter/follow/lakshyatyagi24?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flakshyatyagi24&screen_name=lakshyatyagi24)
-[![Github Follow](https://img.shields.io/github/followers/lakshyatyagi24?color=1DA1F2&logo=github&label=follow%20%40lakshyatyagi24&style=for-the-badge)](https://github.com/login?return_to=%2Flakshyatyagi24)
+<h2 align="center">Hi there, I'm Lakshya Tyagi 👋</h2>
 
-![](https://komarev.com/ghpvc/?username=lakshyatyagi24&color=47ccb3)
+<p align="center">
+  <a href="https://twitter.com/LakshyaTyagi24">
+    <img src="https://img.shields.io/twitter/follow/LakshyaTyagi24?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Follow Lakshya on Twitter"/>
+  </a>
+  <a href="https://github.com/lakshyatyagi24">
+    <img src="https://img.shields.io/github/followers/lakshyatyagi24?color=1DA1F2&logo=github&label=follow%20%40lakshyatyagi24&style=for-the-badge" alt="Follow Lakshya on GitHub"/>
+  </a>
+  <a href="https://holopin.me/lakshyatyagi24">
+    <img src="https://holopin.me/lakshyatyagi24" alt="Lakshya's Holopin profile"/>
+  </a>
+</p>
 
-[![An image of @lakshyatyagi24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshyatyagi24)](https://holopin.io/@lakshyatyagi24)
-
-
-## I'm a Trainee Software Developer
-
-### - 🔭 I’m currently working on Flutter
-
-<a href="https://app.daily.dev/lakshyatyagi24"><img src="https://api.daily.dev/devcards/4afe4f338c024951be53c148cc4f7db0.png?r=oj4" width="400" alt="Lakshya Tyagi's Dev Card"/></a>
-
-### Spotify Playing 🎧
-[<img src="[https://now-playing-codestackr.vercel.app/api/spotify-playing](https://open.spotify.com/embed/track/4QSF0d4ENvMXA03ARpMfaP?utm_source=generator&theme=0)" alt="Lakshya Tyagi Spotify Playing" width="350" />]([https://open.spotify.com/user/315as6ypnsfu44b4lf66cdqlxm5e](https://open.spotify.com/embed/track/4QSF0d4ENvMXA03ARpMfaP?utm_source=generator&theme=0))
-
-
-### - 📫 Connect with me
-[<img align="left" alt="Lakshya Tyagi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Lakshya Tyagi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Lakshya Tyagi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Lakshya Tyagi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<a href="https://dev.to/lakshyatyagi24">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshya Tyagi's DEV Profile" height="30" width="30">
-</a>
-<BR />
-
-### - Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />](https://www.python.org/)
-[<img align="left" alt="Java" width="26px" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="C" width="26px" src="https://unpkg.com/simple-icons@v3/icons/C.svg" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
-<br>
-<BR />
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=lakshyatyagi24&color=47ccb3)
+</p>
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#141](https://github.com/StudentCode-in/StudentCode-in.github.io/pull/141) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-2. ❗️ Closed issue [#78](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/78) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-3. 🗣 Commented on [#78](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/78) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-4. 🗣 Commented on [#139](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/139) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-5. 🗣 Commented on [#127](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/127) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
+## 🌟 About Me
+
+- 👨‍💻 I’m currently working as a **Senior Software Developer** at Synoriq R&D
+- 🚀 Transitioning into **Full Stack Development** with a focus on **JavaScript (Node.js)**, **Spring Boot**, and **System Design**
+- 🎯 Actively learning and exploring **DevOps** and **Cloud Technologies**
+- 🧠 I’m building projects across multiple tech stacks, focusing on **.NET**, **Flutter**, and **React**
+- 🌱 Continuously improving my **leadership skills** and helping my team excel
+
+---
+
+### 📱 Let's Connect:
+
+<p align="center">
+  <a href="https://twitter.com/LakshyaTyagi24" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lakshyatyagi24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/lakshya.tyagi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/lakshya.tyagi.77" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://dev.to/lakshyatyagi24" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
+
+---
+
+### 🎧 Spotify Now Playing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+  <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-  
-  
-</details>
+
+---
+
+### 📈 GitHub Stats
 
 <details>
-  <summary>:zap: Github Stats</summary> 
-
-![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyatyagi24&layout=compact&theme=radical)
- <a href="http://www.github.com/scottwright-dev"><img src="https://github-readme-streak-stats.herokuapp.com?user=lakshyatyagi24&theme=dark" /></a>
+  <summary>Click to expand</summary>
+  
+  ![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyatyagi24&layout=compact&theme=radical)
+  <a href="http://www.github.com/Lakshyatyagi24"><img src="https://github-readme-streak-stats.herokuapp.com?user=lakshyatyagi24&theme=dark" /></a>
+  
 </details>
-
-[twitter]: https://twitter.com/LakshyaTyagi24
-[linkedin]: https://www.linkedin.com/in/lakshyatyagi24/
-[instagram]: https://www.instagram.com/lakshya.tyagi/
-[facebook]: https://facebook.com/lakshya.tyagi.77
