@@ -20,11 +20,12 @@
 
 ## 🌟 About Me
 
-- 👨‍💻 I’m currently working as a **Senior Software Developer** at Synoriq R&D
-- 🚀 Transitioning into **Full Stack Development** with a focus on **JavaScript (Node.js)**, **Spring Boot**, and **System Design**
-- 🎯 Actively learning and exploring **DevOps** and **Cloud Technologies**
-- 🧠 I’m building projects across multiple tech stacks, focusing on **.NET**, **Flutter**, and **React**
-- 🌱 Continuously improving my **leadership skills** and helping my team excel
+- 👨‍💻 I’m currently working as a **Senior Software Engineer** at HeyCoach
+- 🚀 Focusing on **Full Stack Development** with expertise in **JavaScript (Node.js)**, **Spring Boot**, and **System Design**
+- ☁️ Enthusiastically exploring **DevOps**, **Cloud Technologies**, and integrating them into scalable solutions
+- 🎯 Building high-impact projects with a multi-tech approach, covering **Ruby on Rails**, **.NET**, **React**, and **Flutter**
+- 📊 Skilled in leading projects and collaborating with cross-functional teams to deliver robust solutions
+- 🌱 Constantly enhancing my **leadership skills** to support team growth and success
 
 ---
 
@@ -62,7 +63,8 @@
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-  <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://rubyonrails.org/"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
