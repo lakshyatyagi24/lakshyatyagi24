@@ -64,6 +64,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshyatyagi24&theme=tokyonight" alt="Streak Stats" />
 </p>
 
+## 🎧 Now Playing on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tlhakevmd26mjmsam2azwgaib4&cover_image=true&theme=default)](https://open.spotify.com/user/31tlhakevmd26mjmsam2azwgaib4)
+
 ---
 
 ## 🧵 Projects & Interests
